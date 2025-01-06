@@ -10,7 +10,7 @@ This repository contains coursework from my IT for Business Data Analytics Maste
    - Description: This project involves classifying companies from the Forbes Global dataset into two categories based on their market value. The goal is to preprocess the data, create binary labels, train a deep learning model, optimize its performance, and evaluate the results.
 
 2. **Assignment 2**: Non Neural Machine Learning
-   - Notebook: [assignment2_visualization.ipynb](assignments/Non_NeuralMachineLearning.ipynb)
+   - Notebook: [Non_NeuralMachineLearning.ipynb](assignments/Non_NeuralMachineLearning.ipynb)
    - Description: This project focuses on preparing, exploring, and building machine learning models to classify arm gestures using smartwatch sensor data. The main goals are to preprocess the data, fine-tune the models, and evaluate their performance using both quantitative and qualitative methods.
 
 ---
