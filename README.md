@@ -7,7 +7,7 @@ This repository contains coursework from my IT for Business Data Analytics Maste
 ### Assignments
 1. **Assignment 1**: Deep Learning
    - Notebook: [DeepLearning.ipynb](assignments/DeepLearning.ipynb)
-   - Description: This project involves classifying companies from the Forbes Global dataset into two categories based on their market value. The goal is to preprocess the data, create binary labels, train a deep learning model, optimize its performance, and evaluate the results.
+   - Description: The project involves classifying companies from the Forbes Global dataset into two categories based on their market value. The goal is to preprocess the data, create binary labels, train a deep learning model, optimize its performance, and evaluate the results.
 
 2. **Assignment 2**: Non Neural Machine Learning
    - Notebook: [Non_NeuralMachineLearning.ipynb](assignments/Non_NeuralMachineLearning.ipynb)
@@ -15,7 +15,7 @@ This repository contains coursework from my IT for Business Data Analytics Maste
 
 3. **Capstone Project**: 
    - Notebook: [mignaczCapstoneProject.ipynb](assignments/mignaczCapstoneProject.ipynb)
-   - Description: This capstone project focuses on predicting click-through rates (CTR) on advertisements using machine learning models. The goal is to analyze how various features influence user interactions with ads. The primary objective is to identify the features most impactful on CTR and optimize ad placements and formats accordingly.
+   - Description: The capstone project focuses on predicting click-through rates (CTR) on advertisements using machine learning models. The goal is to analyze how various features influence user interactions with ads. The primary objective is to identify the features most impactful on CTR and optimize ad placements and formats accordingly.
 
 ---
 
