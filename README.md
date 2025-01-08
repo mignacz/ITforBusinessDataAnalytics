@@ -16,6 +16,10 @@ This repository contains coursework from my IT for Business Data Analytics Maste
 3. **Capstone Project**: 
    - Notebook: [mignaczCapstoneProject.ipynb](assignments/mignaczCapstoneProject.ipynb)
    - Description: The capstone project focuses on predicting click-through rates (CTR) on advertisements using machine learning models. The goal is to analyze how various features influence user interactions with ads. The primary objective is to identify the features most impactful on CTR and optimize ad placements and formats accordingly.
+   - Programming Language: Python
+   - Tools: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, RandomForestClassifier, GradientBoostingClassifier, Logistic Regression, SVC, TensorFlow, Keras
+   - Platform: Jupyter Notebook, Google Colab
+   - Skills Developed: Data Preprocessing, Exploratory Data Analysis (EDA), Visualizing trends and distributions, Identifying correlations, Feature Engineering, Dimensionality reduction using PCA and t-SNE, Machine Learning, Deep Learning, Model Evaluation
 
 ---
 
