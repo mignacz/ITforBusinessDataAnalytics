@@ -30,6 +30,13 @@ This repository contains coursework from my IT for Business Data Analytics Maste
    - Tools: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, RandomForestClassifier, GradientBoostingClassifier, Logistic Regression, SVC, TensorFlow, Keras
    - Platform: Jupyter Notebook, Google Colab
    - Skills Developed: Data Preprocessing, Exploratory Data Analysis (EDA), Visualizing trends and distributions, Identifying correlations, Feature Engineering, Dimensionality reduction using PCA and t-SNE, Machine Learning, Deep Learning, Model Evaluation
+   - Outcomes:
+      - Hypothesis 1: Effect of Ad Type on CTR: Native ads had a higher CTR than display ads, supported by bar plots and model evaluation metrics.
+      - Hypothesis 2: Influence of Ad Position on CTR: Ads placed at the top-left of the page had higher CTR compared to top-right positioned ads.
+      - Model Performance: The logistic regression model achieved 76% accuracy, but precision and recall were lower than expected. No single feature strongly predicted CTR; multiple features contributed to the model’s performance.
+      - Recommendations: Improve feature engineering and explore additional data for better predictions. Experiment with advanced models and fine-tune hyperparameters for better accuracy and recall.
+      - Limitations & Future Research: The dataset had missing values, and additional behavioral data could enhance predictions. Future work should include experimenting with more complex models, expanding the feature set, and conducting A/B tests.
+
 
 ---
 
