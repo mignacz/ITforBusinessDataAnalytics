@@ -22,6 +22,15 @@ This repository contains coursework from my IT for Business Data Analytics Maste
 2. **Assignment 2**: Non Neural Machine Learning
    - Notebook: [Non_NeuralMachineLearning.ipynb](assignments/Non_NeuralMachineLearning.ipynb)
    - Description: This project focuses on preparing, exploring, and building machine learning models to classify arm gestures using smartwatch sensor data. The main goals are to preprocess the data, fine-tune the models, and evaluate their performance using both quantitative and qualitative methods.
+   - Programming Language: Python
+   - Tools: Pandas, NumPy, Matplotlib, Scikit-learn
+   - Platform: Jupyter Notebook, Google Colab
+   - Skills Developed: Data Preparation, Modeling, Evaluation, Dimensionality Reduction, Visualization
+   - Outcomes:
+      - Linear Regression: Struggles without PCA due to sensitivity to outliers. PCA improves performance but remains suboptimal.
+      - Random Forest: Excels without PCA, handling non-linear relationships and outliers well.PCA reduces its performance, likely due to information loss.
+      - Conclusion: Random Forest without PCA outperforms all models, showing superior predictive power and robustness.
+
 
 3. **Capstone Project**: 
    - Notebook: [CapstoneProjectPub.ipynb](assignments/CapstoneProjectPub.ipynb)
